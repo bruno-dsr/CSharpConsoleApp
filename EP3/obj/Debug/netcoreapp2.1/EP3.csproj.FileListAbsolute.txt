@@ -1,0 +1,11 @@
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\bin\Debug\netcoreapp2.1\EP3.deps.json
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\bin\Debug\netcoreapp2.1\EP3.runtimeconfig.json
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\bin\Debug\netcoreapp2.1\EP3.runtimeconfig.dev.json
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\bin\Debug\netcoreapp2.1\EP3.dll
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\bin\Debug\netcoreapp2.1\EP3.pdb
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\obj\Debug\netcoreapp2.1\EP3.csprojAssemblyReference.cache
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\obj\Debug\netcoreapp2.1\EP3.csproj.CoreCompileInputs.cache
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\obj\Debug\netcoreapp2.1\EP3.AssemblyInfoInputs.cache
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\obj\Debug\netcoreapp2.1\EP3.AssemblyInfo.cs
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\obj\Debug\netcoreapp2.1\EP3.dll
+C:\Users\MOURA INFORMÁTICA\Desktop\EP3\obj\Debug\netcoreapp2.1\EP3.pdb
