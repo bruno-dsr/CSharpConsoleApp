@@ -20,21 +20,19 @@ namespace Classes2
             produto.Quantidade = int.Parse(Console.ReadLine());
 
             System.Console.Write("\n");
-            produto.ValorTotalEmEstoque();
+            System.Console.WriteLine(produto.ToString());
             System.Console.Write("\n");
 
             System.Console.Write("Digite a quantidade de itens a ser adicionado ao estoque: ");
             int entrada = int.Parse(Console.ReadLine());
             produto.AdicionarProdutos(entrada);
-            System.Console.Write("Dados atualizados: ");
-            produto.ValorTotalEmEstoque();
+            System.Console.Write("Dados atualizados: " + produto.ToString());
             System.Console.Write("\n");
 
             System.Console.Write("Digite a quantidade de itens a ser removida ao estoque: ");
             int saida = int.Parse(Console.ReadLine());
             produto.RemoverProdutos(saida);
-            System.Console.Write("Dados atualizados: ");
-            produto.ValorTotalEmEstoque();
+            System.Console.Write("Dados atualizados: " + produto.ToString());
             System.Console.WriteLine("\n");
         }
     }
