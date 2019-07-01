@@ -6,6 +6,9 @@ namespace Classes3
     {
         static void Main(string[] args)
         {
+            //EXERCICIOS CLASSE PARTE 3
+            //ABORDA CLASSES, MÉTODOS, ATRIBUTOS, TOSTRING E OVERRIDE
+
             System.Console.WriteLine("Selecione um exercício:");
             ExibirExercicios();
             int escolha = int.Parse(Console.ReadLine());
