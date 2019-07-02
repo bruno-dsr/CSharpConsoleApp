@@ -18,7 +18,7 @@ namespace ClassesDetalhe1
             Console.Write("Deseja abrir a conta com um depósito inicial? [S/N]  ");
             char opt = char.Parse(Console.ReadLine());
 
-            if(opt == 'S' || opt == 's')
+            if (opt == 'S' || opt == 's')
             {
                 Console.Write("Informe o saldo inicial: ");
                 double saldo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -35,7 +35,7 @@ namespace ClassesDetalhe1
             conta.Operacoes();
             int escolha = int.Parse(Console.ReadLine());
 
-            while(escolha != 0)
+            while (escolha != 0)
             {
                 switch (escolha)
                 {
