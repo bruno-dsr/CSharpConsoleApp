@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Globalization;
 
 namespace ClassesDetalhe1
@@ -18,10 +16,8 @@ namespace ClassesDetalhe1
             Titular = nome;
         }
 
-        public ContaCorrente(int numero, string nome, double saldo)
+        public ContaCorrente(int numero, string nome, double saldo) : this(numero, nome)
         {
-            Numero = numero;
-            Titular = nome;
             Saldo = saldo;
         }
 
