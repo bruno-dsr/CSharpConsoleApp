@@ -1,0 +1,11 @@
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\bin\Debug\netcoreapp2.1\Enums1.deps.json
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\bin\Debug\netcoreapp2.1\Enums1.runtimeconfig.json
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\bin\Debug\netcoreapp2.1\Enums1.runtimeconfig.dev.json
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\bin\Debug\netcoreapp2.1\Enums1.dll
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\bin\Debug\netcoreapp2.1\Enums1.pdb
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\obj\Debug\netcoreapp2.1\Enums1.csprojAssemblyReference.cache
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\obj\Debug\netcoreapp2.1\Enums1.csproj.CoreCompileInputs.cache
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\obj\Debug\netcoreapp2.1\Enums1.AssemblyInfoInputs.cache
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\obj\Debug\netcoreapp2.1\Enums1.AssemblyInfo.cs
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\obj\Debug\netcoreapp2.1\Enums1.dll
+C:\Users\MOURA INFORMÁTICA\Desktop\Enums1\Enums1\obj\Debug\netcoreapp2.1\Enums1.pdb
