@@ -1,0 +1,11 @@
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.deps.json
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.json
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.pdb
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\Users\Bruno\Desktop\CSharpConsoleApp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.pdb

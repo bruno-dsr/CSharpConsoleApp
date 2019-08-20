@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\CSharpConsoleApp\\Interface\\Interface\\Interface.csproj",
-      "projectName": "Interface",
-      "projectPath": "C:\\Users\\Bruno\\Desktop\\CSharpConsoleApp\\Interface\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\CSharpConsoleApp\\ExtensionMethods\\ExtensionMethods\\ExtensionMethods.csproj",
+      "projectName": "ExtensionMethods",
+      "projectPath": "C:\\Users\\Bruno\\Desktop\\CSharpConsoleApp\\ExtensionMethods\\ExtensionMethods\\ExtensionMethods.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno\\Desktop\\CSharpConsoleApp\\Interface\\Interface\\obj\\",
+      "outputPath": "C:\\Users\\Bruno\\Desktop\\CSharpConsoleApp\\ExtensionMethods\\ExtensionMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
